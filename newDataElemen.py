@@ -8,5 +8,5 @@ adapters.addSingleVal("regex", "pattern");
 		digits: { digits: true },
 		creditcard: { creditcard: true }, {}
 	},
-
+w
 	addClassRules: function( className, rules ) {
